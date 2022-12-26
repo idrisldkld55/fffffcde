@@ -1,0 +1,14 @@
+{
+    "name": "Nitro Generator",
+    "token": "MTAxMjc5OTI3Mjc2NjQyNzE5Ng.G9vaae._NOtziLnj9AKSFeJ3MOtqJUhWVsp3w1a_qxeZ8",
+    "prefix": "+",
+    "joinChannel": "980061948311908396",
+    "joinMessage": "{user.mention} **joined**; Invited by **{inviter.name}** ({invites} invites)",
+    "joinEnable": true,
+    "leaveChannel": "",
+    "leaveMessage": "",
+    "leaveEnable": false,
+    "guildID": "",
+    "greatChannel": "",
+    "netflixChannel": "980061948311908396"
+}
