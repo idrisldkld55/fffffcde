@@ -14,3 +14,7 @@ Pour installer les modules :
 
 ## lancement
 `node .`
+
+Bot créé par Zeknow !
+Si vous avez un problème avec le bot me mp
+0x5A656B6E6F77#1337
